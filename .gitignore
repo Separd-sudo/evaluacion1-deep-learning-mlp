@@ -1,3 +1,11 @@
 .venv/
 Evaluacion_MLP_Dataset_BankMarketing (2).ipynb
 __pycache__/
+.DS_Store
+
+# Archivos de preparación de defensa y presentación (no subir a GitHub)
+*.pptx
+*.mp4
+SPEECH_*.md
+PROMPT_*.md
+imagenes_presentacion/
