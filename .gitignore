@@ -9,3 +9,4 @@ __pycache__/
 SPEECH_*.md
 PROMPT_*.md
 imagenes_presentacion/
+*.pdf
